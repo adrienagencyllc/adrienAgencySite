@@ -15,7 +15,7 @@ export default function Home() {
         <Divider orientation="vertical" height={40} />
         <VStack width={"30%"}>
           <Text fontStyle={"italic"} fontSize={"2xl"} width={"100%"}>
-            We&apos;re in building process right now,to bring you the best experience posible
+            We&apos;re in building process right now, to bring you the best experience posible
           </Text>
           <Text fontStyle={"italic"} fontSize={"2xl"} width={"100%"}>
             But don&apos;t be sad, we&apos;ll be here soon...
